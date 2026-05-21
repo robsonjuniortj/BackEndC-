@@ -1,3 +1,14 @@
+👨‍💻 Desenvolvedor
+
+Robson Oliveira Gomes Junior
+
+📍 Salvador - BA
+💼 LinkedIn: https://linkedin.com/in/robsonoliveira-gomes-junior-729600190
+🐙 GitHub: https://github.com/robsonjuniortj
+
+
+---
+
 # 🌍 BackEndC- | API Backend em C#
 
 Backend desenvolvido em C# durante a formação Full Stack da Recode Pro para integração com o projeto frontend em React do sistema de viagens.
